@@ -1,0 +1,80 @@
+
+-------------initial queue----------------
+ 
+No of patients added:4
+Refreshed queue: 
+ 100716,Santy
+ 100126,krishna
+ 100528,Nabh
+ 100344,Ashu
+ 
+------------------------------------------
+ 
+-----------new patient entered---------
+ 
+ Patient details: John1,51,101051
+ Patient details: John2,55,101255
+ Patient details: John3,52,101452
+ Patient details: John4,59,101659
+Refreshed queue: 
+ 100716,Santy
+ 100126,krishna
+ 100528,Nabh
+ 100344,Ashu
+ 100951,John1
+ 101352,John3
+ 101155,John2
+ 101559,John4
+ 
+------------------------------------------
+ 
+-----------next patient-------- 
+ 
+Next patient for consultation is: 101559,John4
+------------------------------------------
+ 
+Refreshed queue: 
+ 100716,Santy
+ 100126,krishna
+ 100528,Nabh
+ 100344,Ashu
+ 100951,John1
+ 101352,John3
+ 101155,John2
+ 
+-----------next patient-------- 
+ 
+Next patient for consultation is: 101155,John2
+------------------------------------------
+ 
+Refreshed queue: 
+ 100716,Santy
+ 100126,krishna
+ 100528,Nabh
+ 100344,Ashu
+ 100951,John1
+ 101352,John3
+ 
+-----------next patient-------- 
+ 
+Next patient for consultation is: 101352,John3
+------------------------------------------
+ 
+Refreshed queue: 
+ 100716,Santy
+ 100126,krishna
+ 100528,Nabh
+ 100344,Ashu
+ 100951,John1
+ 
+-----------next patient-------- 
+ 
+Next patient for consultation is: 100951,John1
+------------------------------------------
+ 
+Refreshed queue: 
+ 100716,Santy
+ 100126,krishna
+ 100528,Nabh
+ 100344,Ashu
+ 
